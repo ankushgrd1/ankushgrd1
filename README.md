@@ -62,8 +62,10 @@ I enjoy building projects, solving programming problems, and learning new techno
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgrd1&layout=compact&theme=dark)
-
+- 🐍 Python
+- ⚡ C++
+- 🟨 JavaScript
+- 🌐 HTML & CSS
 ---
 
 ## 💡 Random Dev Quote
