@@ -47,8 +47,11 @@ I enjoy building projects, solving programming problems, and learning new techno
 
 ## 📊 GitHub Stats
 
-![Ankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankushgrd1&show_icons=true&theme=dark)
-
+- ⭐ Repositories: 1
+- 🐍 Main Language: Python
+- 💻 Programming: C++ | Python | JavaScript
+- 🌐 Web Development: React | HTML | CSS
+- 🧠 Interests: DSA | Machine Learning 
 ---
 
 ## 🔥 GitHub Streak
