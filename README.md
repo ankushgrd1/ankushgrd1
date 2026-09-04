@@ -21,11 +21,11 @@ I enjoy building projects, solving programming problems, and learning new techno
 
 ## 🌐 Socials
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushgrd1)
+[![GitHub](https://github.com/ankushgrd1/ankushgrd1/edit/main/README.md)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://www.linkedin.com/in/ankushkr12/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://mail.google.com/mail/u/0/#inbox)
 
 ---
 
