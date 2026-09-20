@@ -6,18 +6,6 @@ My current focus is on strengthening my skills in **Artificial Intelligence, Mac
 
 ---
 
-## 🧠 What I Do:
-
-- 🤖 Machine Learning & Artificial Intelligence
-- 🐍 Python Programming
-- 🧠 Natural Language Processing (NLP)
-- 📊 Data Analysis & Machine Learning
-- 💻 Data Structures & Algorithms
-- 🌐 Web Development
-- 🚀 AI-Based Project Development
-
----
-
 ## 🌐 Socials:
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushgrd1)
