@@ -136,45 +136,28 @@ my skills, projects, and development journey.
 
 ---
 
-## 📊 GitHub Stats:
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ankushgrd1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=ankushgrd1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="48%" />
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgrd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=ankushgrd1&theme=tokyonight&hide_border=false" />
+<br><br>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgrd1&theme=tokyonight&hide_border=false&layout=compact" />
+<img src="https://streak-stats.demolab.com/?user=ankushgrd1&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="70%" />
 
 </div>
 
 ---
 
-## 🧠 AI & ML Learning Journey:
+## 📈 GitHub Activity
 
-```text
-Artificial Intelligence
-        |
-        ├── Machine Learning
-        |      ├── Supervised Learning
-        |      ├── Unsupervised Learning
-        |      └── Model Evaluation
-        |
-        ├── Natural Language Processing
-        |      ├── Text Classification
-        |      ├── TF-IDF
-        |      ├── Transformers
-        |      └── BERT / DistilBERT
-        |
-        ├── Deep Learning
-        |      ├── Neural Networks
-        |      ├── PyTorch
-        |      └── TensorFlow
-        |
-        └── Explainable AI
-               ├── SHAP
-               └── Model Interpretation
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
+
+</div>
