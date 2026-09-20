@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi there! 👋 I'm **Ankush Kumar**, a Computer Science student and an aspiring **AI & Machine Learning Developer**. I am passionate about building intelligent applications using Python, Machine Learning, Natural Language Processing (NLP), and Data Structures & Algorithms. I enjoy exploring new technologies, solving challenging problems, and transforming innovative ideas into practical projects.
+**Ankush Kumar**, a Computer Science student and an aspiring **AI & Machine Learning Developer**. I am passionate about building intelligent applications using Python, Machine Learning, Natural Language Processing (NLP), and Data Structures & Algorithms. I enjoy exploring new technologies, solving challenging problems, and transforming innovative ideas into practical projects.
 
 My current focus is on strengthening my skills in **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**. I have worked on projects such as an LPU Offline Student Chatbot, Document Classification System, Smart Delivery Route Optimizer, and Threat Explanation Assistant. 🚀 I am continuously learning, improving my coding skills, and looking forward to contributing to meaningful real-world AI solutions.
 
