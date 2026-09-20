@@ -1,19 +1,8 @@
-# 💫 About Me:
+# 💫 About Me
 
-👋 Hi, I'm **Ankush Kumar**
+Hi there! 👋 I'm **Ankush Kumar**, a Computer Science student and an aspiring **AI & Machine Learning Developer**. I am passionate about building intelligent applications using Python, Machine Learning, Natural Language Processing (NLP), and Data Structures & Algorithms. I enjoy exploring new technologies, solving challenging problems, and transforming innovative ideas into practical projects.
 
-🎓 Computer Science Student | 🤖 AI & ML Developer | 💻 Problem Solver
-
-I am a passionate Computer Science student interested in
-**Artificial Intelligence, Machine Learning, Natural Language Processing,
-Python, C++, and Data Structures & Algorithms.**
-
-I enjoy building intelligent applications, exploring machine learning
-models, solving programming problems, and continuously learning
-new technologies.
-
-🚀 My goal is to become a skilled **AI & Machine Learning Developer**
-and build practical, real-world intelligent solutions.
+My current focus is on strengthening my skills in **Artificial Intelligence, Machine Learning, Deep Learning, and NLP**. I have worked on projects such as an LPU Offline Student Chatbot, Document Classification System, Smart Delivery Route Optimizer, and Threat Explanation Assistant. 🚀 I am continuously learning, improving my coding skills, and looking forward to contributing to meaningful real-world AI solutions.
 
 ---
 
@@ -154,18 +143,4 @@ my skills, projects, and development journey.
 
 ---
 
-## 📈 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
-
-</div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
