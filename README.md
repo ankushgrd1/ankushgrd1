@@ -97,7 +97,7 @@ for automatically categorizing text documents.
 A route optimization project that explores
 shortest-path algorithms for delivery planning.
 
-🔗 [GitHub Profile](https://github.com/ankushgrd1)
+🔗 [GitHub Profile](https://github.com/ankushgrd1/smart-delivery-route-optimizer)
 
 ---
 
