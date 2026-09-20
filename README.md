@@ -42,7 +42,6 @@ My current focus is on strengthening my skills in **Artificial Intelligence, Mac
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 📊 Data Science & NLP
 
@@ -91,18 +90,6 @@ for automatically categorizing text documents.
 
 ---
 
-### 🛡️ Threat Explanation Assistant
-
-**Python | DistilBERT | SHAP | NLP**
-
-An AI-based phishing detection project focused on
-classifying suspicious emails and explaining
-potential threat indicators.
-
-🔗 [GitHub Profile](https://github.com/ankushgrd1)
-
----
-
 ### 🚚 Smart Delivery Route Optimizer
 
 **React | Spring Boot | Java | MySQL | Dijkstra**
@@ -114,16 +101,6 @@ shortest-path algorithms for delivery planning.
 
 ---
 
-### 🌐 Personal Portfolio Website
-
-**HTML | CSS | JavaScript**
-
-A modern personal portfolio website showcasing
-my skills, projects, and development journey.
-
-🔗 [GitHub Profile](https://github.com/ankushgrd1)
-
----
 
 <!-- ===================== GITHUB STATS ===================== -->
 
