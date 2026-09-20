@@ -161,3 +161,11 @@ my skills, projects, and development journey.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" />
 
 </div>
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
