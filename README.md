@@ -96,29 +96,8 @@ shortest-path algorithms for delivery planning.
 
 <div align="center">
 
-  <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushgrd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgrd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
-
-</div>
-
-<br>
-
-<div align="center">
-
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=ankushgrd1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%" />
 
 </div>
 
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-</div>
