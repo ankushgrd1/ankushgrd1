@@ -1,99 +1,208 @@
+<!-- ===================== HEADER ===================== -->
+
+<div align="center">
+
 # 👋 Hi, I'm Ankush Kumar
 
 ### 💻 Computer Science Student | Developer | Problem Solver
 
-I am a passionate developer interested in **Web Development, Python, C++, DSA and Machine Learning**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+%7C+C%2B%2B+%7C+JavaScript;Machine+Learning+Enthusiast;NLP+%26+AI+Developer;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
 
-I enjoy building projects, solving programming problems, and learning new technologies.
+<br>
+
+<p>
+  <a href="https://github.com/ankushgrd1">
+    <img src="https://img.shields.io/badge/GitHub-ankushgrd1-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:ankushgrd1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ankushgrd1&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
+
+</div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 🧑‍💻 About Me
 
+Hello! I'm **Ankush Kumar**, a Computer Science student
+passionate about software development, artificial intelligence,
+and problem-solving.
+
+I enjoy building practical projects, exploring new technologies,
+and improving my programming and development skills.
+
 - 🎓 Computer Science Student
 - 💻 Interested in Software Development
-- 🌐 Learning Full Stack Web Development
-- 🧠 Practicing Data Structures & Algorithms
-- 🤖 Exploring Machine Learning
-- 🚀 Always learning and building new projects
+- 🐍 Learning Python and Machine Learning
+- ⚡ Practicing C++ and Data Structures & Algorithms
+- 🌐 Exploring Full Stack Web Development
+- 🤖 Interested in AI and Natural Language Processing
+- 🚀 Building projects and learning every day
 
 ---
 
-## 🌐 Socials
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankushgrd1)
+## 🔭 Currently Working On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushgrd1@gmail.com)
+- 🧠 Data Structures & Algorithms
+- 🐍 Python Programming
+- 🤖 Machine Learning & NLP
+- 🌐 Full Stack Web Development
+- 🚀 Personal Projects and Open Source
 
 ---
+
+<!-- ===================== TECH STACK ===================== -->
 
 ## 💻 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs" />
+</p>
+
+### 🧠 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== PROJECTS ===================== -->
 
-- ⭐ Repositories: 1
-- 🐍 Main Language: Python
-- 💻 Programming: C++ | Python | JavaScript
-- 🌐 Web Development: React | HTML | CSS
-- 🧠 Interests: DSA | Machine Learning 
----
+## 🚀 Featured Projects
 
-## 🔥 GitHub Streak
+### 🔹 1. Smart Delivery Route Optimizer
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ankushgrd1&theme=dark)
+📌 **Tech Stack:** React | Spring Boot | Java | MySQL | Dijkstra
 
----
+A route optimization project designed to explore
+shortest-path algorithms and efficient delivery planning.
 
-## 📈 Top Languages
-
-- 🐍 Python
-- ⚡ C++
-- 🟨 JavaScript
-- 🌐 HTML & CSS
----
-
-## 💡 Random Dev Quote
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+🔗 [View Project](https://github.com/ankushgrd1)
 
 ---
 
-## 🚀 Projects
+### 🔹 2. LPU Offline Student Chatbot
 
-### 🔹 Real-Time Multi-Threaded Application Simulator
+📌 **Tech Stack:** Python | Gradio | NLP
 
-Python-based application demonstrating multi-threading and real-time task execution.
+An offline student chatbot designed to answer
+student-related questions using a local knowledge base.
 
-### 🔹 Portfolio Website
-
-Modern personal portfolio website built using React and Tailwind CSS.
-
-### 🔹 Social Media Sentiment Analyzer
-
-Machine learning project for sentiment classification and trend analysis.
-
-### 🔹 Document Classification System
-
-NLP-based system for automatically classifying documents.
+🔗 [View Project](https://github.com/ankushgrd1/LPU-Offline-Student-Chatbot)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### 🔹 3. Document Classification System
 
-💻 Keep Learning • 🚀 Keep Building • 🔥 Keep Growing
+📌 **Tech Stack:** Python | Machine Learning | NLP | Scikit-learn
+
+A document classification system using
+TF-IDF and Naive Bayes for text classification.
+
+🔗 [View Project](https://github.com/ankushgrd1/Doc-Classification-Project)
+
+---
+
+### 🔹 4. Threat Explanation Assistant
+
+📌 **Tech Stack:** Python | DistilBERT | SHAP | NLP
+
+An AI-based project focused on phishing detection
+and explaining suspicious email patterns.
+
+🔗 [View Project](https://github.com/ankushgrd1)
+
+---
+
+### 🔹 5. Portfolio Website
+
+📌 **Tech Stack:** HTML | CSS | JavaScript
+
+A modern personal portfolio website showcasing
+my skills, projects, and development journey.
+
+🔗 [View Project](https://github.com/ankushgrd1)
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankushgrd1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushgrd1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushgrd1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+<!-- ===================== GITHUB ACTIVITY ===================== -->
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushgrd1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+<!-- ===================== LEARNING ===================== -->
+
+## 📚 Learning Journey
+
+```text
+Programming
+    ├── C++
+    ├── Python
+    └── JavaScript
+
+Data Structures & Algorithms
+    ├── Arrays & Strings
+    ├── Linked Lists
+    ├── Trees & Graphs
+    └── Sorting & Searching
+
+Artificial Intelligence
+    ├── Machine Learning
+    ├── Natural Language Processing
+    ├── Deep Learning
+    └── Model Explainability
+
+Web Development
+    ├── HTML & CSS
+    ├── JavaScript
+    ├── React
+    └── Backend Development
